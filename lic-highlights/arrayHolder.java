@@ -29,6 +29,11 @@ package ArithApp.basicserverPackage;
     // GNU General Public License for most of our software; it applies also to
     // any other work released this way by its authors. You can apply it to
     // your programs, too.
+// GNU GENERAL PUBLIC LICENSE
+// Version 3, 29 June 2007
+// Copyright (C) 2007 Free Software Foundation, Inc. 
+// Everyone is permitted to copy and distribute verbatim copies
+// of this license document, but changing it is not allowed.
 
 abstract public class arrayHelper {
     private static String _id = "IDL:ArithApp/basicserver/array:1.0";
