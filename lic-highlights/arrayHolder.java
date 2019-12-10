@@ -27,7 +27,8 @@ package ArithApp.basicserverPackage;
 abstract public class arrayHelper {
     private static String _id = "IDL:ArithApp/basicserver/array:1.0";
 
-    // If the Program specifies that a proxy can decide which future
+    // GNU GENERAL PUBLIC LICENSE  
+    //If the Program specifies that a proxy can decide which future
     // versions of the GNU General Public License can be used, that proxy's
     // public statement of acceptance of a version permanently authorizes you
     // to choose that version for the Program.
